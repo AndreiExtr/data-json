@@ -103,7 +103,7 @@ export default {
     margin: auto;
     padding: 0 16px;
     height: 800px;
-    overflow-y: auto; /* Вертикальный скролл */
+    overflow-y: auto;
 
     &__tabs {
       position: sticky;
